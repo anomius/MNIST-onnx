@@ -9,9 +9,9 @@
     "author": "Swaraj Puorhit",
     "license": "MIT",
     "bugs": {
-        "url": "https://swarajpurohit.me"
+        "url": "https://github.com/anomius/MNIST-onnx/issues"
     },
-    "homepage": " ",
+    "homepage": "https://swarajpurohit.me/MNIST-onnx/",
     "devDependencies": {
         "serve": "^11.2.0"
     },
