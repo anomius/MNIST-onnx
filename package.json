@@ -1,0 +1,19 @@
+{
+    "name": "Mnist-with-onnx",
+    "version": "1.0.0",
+    "description": "PyTorch to JavaScript Mnist demo using ONNX.js.",
+    "main": "index.html",
+    "scripts": {
+        "start": "serve"
+    },
+    "author": "Swaraj Puorhit",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://swarajpurohit.me"
+    },
+    "homepage": " ",
+    "devDependencies": {
+        "serve": "^11.2.0"
+    },
+    "keywords": []
+}
